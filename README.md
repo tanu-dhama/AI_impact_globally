@@ -19,7 +19,7 @@ Description:
 
         View AI adoption trends via line charts and bar graphs
 
-        Explore heat maps showing regional differences
+        Explore pie charts showing cuncumers status on AI 
 
         Analyze correlation between AI investment and economic growth
 
