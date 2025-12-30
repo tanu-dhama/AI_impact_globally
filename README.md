@@ -3,6 +3,7 @@ Project Title: AI_impact_globally
 Purpose:
 
 The purpose of the AI_impact_globally Excel project is to analyze and present the global impact of Artificial Intelligence (AI) using structured data and interactive visualization tools. This project helps stakeholders—such as researchers, policymakers, and educators—understand how AI is influencing different regions and sectors worldwide. The project focuses on identifying trends, opportunities, and challenges associated with AI implementation across various countries.
+
 Description:
 
 "AI_impact_globally" is a comprehensive Excel-based analysis tool that gathers, organizes, and visualizes data related to the adoption and impact of AI across the globe. The project includes:
